@@ -22,8 +22,8 @@ elseif ($page_name=='about.html') {
 elseif ($page_name=='services.html') {
 	include $browser_t.'/services.html';
 	}
-elseif ($page_name=='marketing.html') {
-	include $browser_t.'/marketing.html';
+elseif ($page_name=='gallery.html') {
+	include $browser_t.'/gallery.html';
 	}
 elseif ($page_name=='contact.html') {
 	include $browser_t.'/contact.html';
